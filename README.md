@@ -76,21 +76,21 @@ When any photo is uploaded following events may occur:
 
 Given L, N, W and H as input, print appropriate text as output.
 
-Input:
+**Input:**
 First line contains L.
 Second line contains N, number of photos.
 Following N lines each contains two space separated integers W and H.
 
-Output:
+**Output:**
 Print appropriate text for each photo in a new line.
 
-Constraints:
+**Constraints:**
 1 <= L,W,H <= 10000
 1 <= N <= 1000
 
  
 
-SAMPLE INPUT
+**SAMPLE INPUT**
 
 180
 
